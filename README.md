@@ -1,4 +1,4 @@
-![unnamed](https://github.com/FelipEspessoto/recodePro/assets/98137286/c7555c55-4b9a-4db2-8b80-bc3049e4e909)
+![unnamed](https://github.com/FelipEspessoto/recodePro/assets/98137286/c7555c55-4b9a-4db2-8b80-bc3049e4e909 width: 20px;) 
 
 A Recode é uma organização que visa capacitar e acompanhar estudantes de todo o país para além de formá-los desenvolvedores full-stacks, pessoas cada vez melhores! 🤟🏻 
 

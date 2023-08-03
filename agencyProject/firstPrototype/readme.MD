@@ -1,7 +1,7 @@
 <h3>
  Resultado:
 <hr>
-<img src="F:\Estudo\Recode\Projeto Agencia\assets\result\mainPage01-nonResponsive.png">
+![mainPage01-nonResponsive](https://github.com/FelipEspessoto/recodePro/assets/98137286/8a90f7af-6dfa-4182-92c9-b3fd5ec2f3b8)
 
 </h3>
 

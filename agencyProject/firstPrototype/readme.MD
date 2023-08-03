@@ -11,15 +11,17 @@
 <img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/898b2200-0f56-488e-8c2a-93a98e6a545f">
 </h4>
 
-<h4>
- Tela Mobile: 
- <hr>
-<img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/a3d86f69-b86a-4203-9c64-cf948f7a5db1">
-<img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/765951fb-c8c9-42a7-af94-b7179c1d82bb">
-<img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/c21b4c2d-ac37-4a1e-bb20-ca7d390c6c7b">
-<img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/a2f75634-9c3e-4abe-9635-bae9f0f19037">
-<img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/13e84c78-1ca2-4ea0-a582-42ad3f0e5c08">
-</h4>
+<div style="display: flex; flex-direction: column; align-items: center">
+ <h4>
+  Tela Mobile: 
+  <hr>
+ <img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/a3d86f69-b86a-4203-9c64-cf948f7a5db1">
+ <img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/765951fb-c8c9-42a7-af94-b7179c1d82bb">
+ <img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/c21b4c2d-ac37-4a1e-bb20-ca7d390c6c7b">
+ <img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/a2f75634-9c3e-4abe-9635-bae9f0f19037">
+ <img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/13e84c78-1ca2-4ea0-a582-42ad3f0e5c08">
+ </h4>
+</div>
 
 <h2>
  Exercício Proposto:

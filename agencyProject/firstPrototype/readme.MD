@@ -11,7 +11,6 @@
 <img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/898b2200-0f56-488e-8c2a-93a98e6a545f">
 </h4>
 
-<div style="display: flex; flex-direction: column; align-items: center">
  <h4>
   Tela Mobile: 
   <hr>
@@ -25,7 +24,6 @@
 <br>
  <img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/13e84c78-1ca2-4ea0-a582-42ad3f0e5c08">
  </h4>
-</div>
 
 <h2>
  Exercício Proposto:

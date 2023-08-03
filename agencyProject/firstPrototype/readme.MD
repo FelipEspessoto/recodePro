@@ -1,16 +1,19 @@
 <h3>
  Resultado:
 <hr>
-
-<img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/8a90f7af-6dfa-4182-92c9-b3fd5ec2f3b8">
-
 </h3>
 
 <h4>
  Tela cheia: 
  <hr>
-
-
+<img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/8a90f7af-6dfa-4182-92c9-b3fd5ec2f3b8">
+<img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/d9363df6-fbe5-4835-9a12-dbab2caad88c">
+<img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/2ba9cc50-0c85-44b1-babf-2c1111ac9b27">
+<img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/53a313b2-fcc0-4890-a462-e8f7dc0e9c04">
+<img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/560a0242-3d4a-40b1-af53-50e5ba0c8b96">
+<img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/5aa14a2f-e772-400b-aaa8-df4f0a5171b4">
+<img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/c4edca82-d0d9-4988-947c-ee87a5e19d9d">
+<img src="https://github.com/FelipEspessoto/recodePro/assets/98137286/898b2200-0f56-488e-8c2a-93a98e6a545f">
 </h4>
 
 <h4>

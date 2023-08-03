@@ -1,4 +1,22 @@
-Exercício proposto visando o conehcimento adquirido e estudado em HMTL, CSS e Bootstrap.
+<h3>
+ Resultado:
+<hr>
+<img src="F:\Estudo\Recode\Projeto Agencia\assets\result\mainPage01-nonResponsive.png">
+
+</h3>
+
+<h4>
+ Tela cheia: 
+ <hr>
+
+
+</h4>
+
+<h4>
+ Tela Mobile: 
+ <hr>
+
+</h4>
 
 Olá, Estudante!  
 

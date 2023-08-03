@@ -1,8 +1,3 @@
-<h3>
- Resultado:
-<hr>
-</h3>
-
 <h4>
  Tela cheia: 
  <hr>

@@ -1,1 +1,64 @@
+Algoritmo "passaporteCarimbadoCadastro"
+// Disciplina   : RecodePro
+// Descrição   : Usando conceitos de programação estruturada (Vetor),
+                 //criar em pseudocódigo um menu para simular um cadastro
+                 //para uma agência de viagens com as seguintes funções:
+                 //cadastro de cliente e cadastro de destino, criar também
+                 //uma consulta para cada estrutura de dados.
+// Autor(a)    : Felipe Almir Espessoto Leite
 
+Var
+questMenu: caractere
+
+//Cadastro de Clientes
+newClientName : caracter
+newClientList: caracter
+
+//Vetor de Clientes
+clientVetor : vetor[0..3] de caractere
+clientInd : caracter
+
+//Cadastro de Destinos
+newDestinyName: caractere
+newDestinyList: caractere
+
+//Vetor de Destinos
+destinyVetor : vetor[0..3] de caractere
+destinyInd : caracter
+
+Inicio
+escreval("Olá, seja bem vindo ao cadastro geral da Passaporte Carimbado.")
+escreva("1. Cadastrar um novo cliente" + " 2. Cadastrar novo destino de viagem"+ " 3. Consultar lista de clientes cadastrados" + " 4. Consultar lista de destinos cadastrados" + " 5. SAIR" )
+
+enquanto questMenu <> 5 faca
+      leia (questMenu)
+      escolha questMenu
+              caso "1"
+                   escreva("Adicione um nome para o cliente novo: ")
+                   leia(newClientName)
+                   escreva (newClientName + " cadastrado!")
+              caso "2"
+                 escreva("Adicione um nome para o novo destino: ")
+                 leia(newDestinyName)
+                 escreva (newDestinyName + " cadastrado!")
+              caso "3"
+                 se newClientName = 0 entao
+                 //leia ("Não há clientes cadastrados!")
+                 interrompa
+                 senao
+                 //leia("Os seguintes clientes estão cadastrados: " + newClientName)
+              caso "4"
+                 se newDestinyName = 0 entao
+                 leia ("Não há destinos cadastrados!")
+                 interrompa
+                 senao
+                 leia("Os seguintes destinos estão cadastrados: " + newDestinyName)
+              caso "5"
+                 escreva("Finalizando programa...")
+                 interrompa
+              outrocaso
+                  escreval("Opção inválida! Encerrando programa...")
+                  interrompa
+      fimescolha
+fimenquanto
+Fimalgoritmo
